@@ -7,10 +7,6 @@
 * [Siege](https://www.joedog.org/siege-home/)
 * [Composer](https://getcomposer.org/)
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
 ## Credits
 
 - [Andrews Lince](https://github.com/andrewslince)
